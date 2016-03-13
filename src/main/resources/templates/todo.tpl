@@ -18,5 +18,7 @@ html {
                 }
             }
         }
+        script(src: '/webjars/jquery/2.2.1/jquery.min.js') {}
+        script(src: 'js/todo.js') {}
     }
 }
