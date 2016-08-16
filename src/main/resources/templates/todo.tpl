@@ -1,7 +1,7 @@
 yieldUnescaped '<!DOCTYPE html>'
 html {
     head {
-        link(rel: 'stylesheet', href: '/webjars/bootstrap/3.3.6/css/bootstrap.min.css')
+        link(rel: 'stylesheet', href: '/webjars/bootstrap/3.3.7-1/css/bootstrap.min.css')
     }
     body {
         div(class: 'container-fluid') {
@@ -18,7 +18,7 @@ html {
                 }
             }
         }
-        script(src: '/webjars/jquery/2.2.1/jquery.min.js') {}
+        script(src: '/webjars/jquery/3.1.0/jquery.min.js') {}
         script(src: 'js/todo.js') {}
     }
 }
